@@ -1,7 +1,7 @@
 # Object Removal CV
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/4c0cdc73-b1a1-4d29-a6af-b56f170eedef" />
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/6ab7cfaa-902c-4889-a2fe-ad36ee5deeac" />
+<img width="400" height="450" alt="image" src="https://github.com/user-attachments/assets/6ab7cfaa-902c-4889-a2fe-ad36ee5deeac" />
 
 [![Python](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/)
 
