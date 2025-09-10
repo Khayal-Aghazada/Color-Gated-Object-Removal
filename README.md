@@ -1,7 +1,7 @@
 # Object Removal CV
 
 <img width="548" height="346" alt="image" src="https://github.com/user-attachments/assets/4c0cdc73-b1a1-4d29-a6af-b56f170eedef" />
-<img width="656" height="348" alt="image" src="https://github.com/user-attachments/assets/6ab7cfaa-902c-4889-a2fe-ad36ee5deeac" />
+<img width="546" height="348" alt="image" src="https://github.com/user-attachments/assets/6ab7cfaa-902c-4889-a2fe-ad36ee5deeac" />
 
 
 <p align="center">(Add a screenshot or GIF of your object removal demo in action here. Place your image at <code>assets/images/object_remove_demo.jpg</code>.)</p>
@@ -153,6 +153,3 @@ python -m apps.object_remove --src assets/demo_video/scene.mp4 --hsv_range purpl
 ---
 
 *Explore the codebase and modules for extensible components and live debugging.*
-
-Let me know if you'd like a `--preset` feature for color ranges or a `docs/` starter folder for this project.
-```
